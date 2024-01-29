@@ -7,6 +7,7 @@
     width: 90px;
     background-color: rgb(138, 138, 138);
     border-radius: 20px;
+    
   }
   
   .light {
@@ -25,5 +26,5 @@
   }
   
   .green {
-    background-color: green;
+    background-color: rgb(5, 77, 5);
   }
